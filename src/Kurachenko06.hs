@@ -1,5 +1,5 @@
 {-# OPTIONS_GHC -Wall #-}
-module WHP06 where
+module Kurachenko06 where
 
 import Data.Maybe
 import Data.List
